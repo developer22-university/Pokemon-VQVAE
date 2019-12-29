@@ -26,5 +26,5 @@
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/image_11.png)
 
 # [View Jupyter Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Pokemon-VQVAE/blob/master/VQVAE.ipynb)
-
+# [Kaggle Notebook](https://www.kaggle.com/function9/vector-quantized-vaes-for-pokemon-images)
 
