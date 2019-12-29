@@ -7,8 +7,8 @@ Work Based on:
 * [Kaggle Dataset](https://www.kaggle.com/brilja/pokemon-mugshots-from-super-mystery-dungeon)
 
 # Results
-![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/image_10.png)
-![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/image_1.png)
+![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/label0.png)
+![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/label1.png)
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/image_2.png)
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/image_3.png)
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/image_4.png)
