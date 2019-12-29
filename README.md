@@ -13,7 +13,6 @@
 
 # Training
 ![training](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/training.JPG)
-<br />Model was trained for 250 epochs
 
 # Results
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/label0.png)
