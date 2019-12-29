@@ -1,6 +1,6 @@
 # Pokemon-VQVAE
 * Encoding and Recreating Images using Vector Quantized Variational AutoEncoders
-* 64x64x3 images are encoded into 64x24x3 latent space transformed back into 64x64x3 images
+* `64x64x3` images are encoded into `64x24x3` latent space and transformed back into `64x64x3` images
 
 # Work Based on
 * [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
