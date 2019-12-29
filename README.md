@@ -11,6 +11,10 @@
 # Model Architecture
 ![model](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/model.JPG)
 
+# Training
+![training](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/training.JPG)
+Model was trained for 250 epochs
+
 # Results
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/label0.png)
 ![r](https://raw.githubusercontent.com/vee-upatising/Pokemon-VQVAE/master/results/label1.png)
